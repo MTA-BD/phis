@@ -9,7 +9,7 @@ with col3:
 
 with col2:
     st.image(
-    "https://github.com/MTA-BD/phis/blob/main/hcrbin/logu.png",
+    "https://github.com/MTA-BD/phis/blob/main/hcrbin/logu.png?raw=true",
     width=150,
     channels="RGB"
     )
